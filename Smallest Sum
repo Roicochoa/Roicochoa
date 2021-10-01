@@ -1,0 +1,12 @@
+import numpy as np
+import pandas as pd
+from math import sqrt
+
+def smallest_sum(num):
+    factor_list = []
+    min = num
+    for x in range(int(sqrt(num + 1))):
+        if (x != 0) and (num % x) == 0:
+            if x + (num//x) < min:
+                min = (x + (num//x))
+    return min
