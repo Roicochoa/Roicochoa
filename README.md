@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Roicochoa
-- 👀 I’m interested in working in tech, fintech, crypto, and banking.
-- 🌱 I’m currently programming in python, java, and SQL.
-- 💞️ I’m looking to collaborate on crypto projects that will boost my knowledge of the crypto world.
+- 👀 I’m interested in working in tech, fintech, and crypto.
+- 🌱 I’m currently programming in python, and SQL.
+- 💞️ I’m looking to improve my skillset in order to further enhance my data analytical capabilities.
 - 📫 How to reach me: roicochoa@gmail.com, https://www.linkedin.com/in/roi-ochoa/
 
 <!---
